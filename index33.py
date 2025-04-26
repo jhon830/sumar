@@ -11,3 +11,5 @@ def sumar(x, y):
     
     
 print(sumar(17,23))
+#Probar
+print (sumar(1,6))
